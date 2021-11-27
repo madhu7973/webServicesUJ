@@ -1,0 +1,19 @@
+2020-07-21 02:17:27,910 WARN  [SoapUI] Missing folder [D:\APITestingProjectsWorkspace\WebServicesUJ\ext] for external libraries
+2020-07-21 02:17:28,114 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Madhusudan Devaraju\soapui-settings.xml]
+2020-07-21 02:17:28,669 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2020-07-21 02:17:28,669 INFO  [DefaultSoapUICore] All plugins loaded
+2020-07-21 02:17:30,373 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/REST%20LibraryServices/REST-LibraryServices-soapui-project.xml]
+2020-07-21 02:17:32,226 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-21 02:17:32,228 INFO  [log] false
+2020-07-21 02:17:32,228 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-21 02:17:34,845 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/EmployeeServices/EmployeeServices-soapui-project.xml]
+2020-07-21 02:17:37,265 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/REST%20LibraryServices/REST-LibraryServices-soapui-project.xml]
+2020-07-21 02:17:38,254 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-21 02:17:38,255 INFO  [log] false
+2020-07-21 02:17:38,255 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-21 02:17:38,464 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/REST%20LibraryServices/REST-LibraryServices-soapui-project.xml]
+2020-07-21 02:17:39,207 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/REST%20LibraryServices/REST-LibraryServices-soapui-project.xml]
+2020-07-21 02:17:41,110 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/REST%20LibraryServices/REST-LibraryServices-soapui-project.xml]
+2020-07-21 02:17:41,904 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/EmployeeServices/EmployeeServices-soapui-project.xml]
+2020-07-21 02:17:42,203 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/EmployeeServices/EmployeeServices-soapui-project.xml]
+2020-07-21 02:17:42,956 INFO  [WsdlProject] Loaded project from [file:/D:/APITestingProjectsWorkSpace/EmployeeServices/EmployeeServices-soapui-project.xml]

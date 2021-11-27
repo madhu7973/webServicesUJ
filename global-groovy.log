@@ -1,0 +1,51 @@
+2020-07-14 01:34:06,888 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-14 01:34:06,889 INFO  [log] false
+2020-07-14 01:34:06,889 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-14 01:36:50,519 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-14 01:36:50,520 INFO  [log] false
+2020-07-14 01:36:50,521 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-14 01:36:55,376 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-14 01:36:55,376 INFO  [log] false
+2020-07-14 01:36:55,377 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-14 01:38:51,164 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-14 01:38:51,165 INFO  [log] false
+2020-07-14 01:38:51,165 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-14 01:38:55,742 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-14 01:38:55,742 INFO  [log] false
+2020-07-14 01:38:55,742 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-14 01:41:44,612 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-14 01:41:44,621 INFO  [log] false
+2020-07-14 01:41:44,621 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-14 01:41:50,395 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-14 01:41:50,395 INFO  [log] false
+2020-07-14 01:41:50,396 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-15 03:26:59,081 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-15 03:26:59,086 INFO  [log] false
+2020-07-15 03:26:59,086 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-15 03:27:03,876 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-15 03:27:03,876 INFO  [log] false
+2020-07-15 03:27:03,877 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-15 03:28:56,144 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-15 03:28:56,145 INFO  [log] false
+2020-07-15 03:28:56,146 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-15 03:29:01,586 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-15 03:29:01,586 INFO  [log] false
+2020-07-15 03:29:01,586 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-15 03:31:43,004 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-15 03:31:43,005 INFO  [log] false
+2020-07-15 03:31:43,005 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-15 03:31:47,331 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-15 03:31:47,331 INFO  [log] false
+2020-07-15 03:31:47,331 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-21 02:17:06,983 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-21 02:17:07,019 INFO  [log] false
+2020-07-21 02:17:07,019 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-21 02:17:12,011 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-21 02:17:12,012 INFO  [log] false
+2020-07-21 02:17:12,012 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-21 02:17:32,226 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-21 02:17:32,228 INFO  [log] false
+2020-07-21 02:17:32,228 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
+2020-07-21 02:17:38,254 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03}
+2020-07-21 02:17:38,255 INFO  [log] false
+2020-07-21 02:17:38,255 INFO  [log] {aisle=333, author=madhu33, book_name=madhu-book-3, isbn=madhu03, name=madhu-book-3}
